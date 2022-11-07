@@ -1,0 +1,15 @@
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.csproj.AssemblyReference.cache
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.AssemblyInfoInputs.cache
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.AssemblyInfo.cs
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.csproj.CoreCompileInputs.cache
+C:\Users\yard7\source\repos\HashCode\HashCode\bin\Debug\net6.0\HashCode.exe
+C:\Users\yard7\source\repos\HashCode\HashCode\bin\Debug\net6.0\HashCode.deps.json
+C:\Users\yard7\source\repos\HashCode\HashCode\bin\Debug\net6.0\HashCode.runtimeconfig.json
+C:\Users\yard7\source\repos\HashCode\HashCode\bin\Debug\net6.0\HashCode.dll
+C:\Users\yard7\source\repos\HashCode\HashCode\bin\Debug\net6.0\HashCode.pdb
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.dll
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\refint\HashCode.dll
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.pdb
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\HashCode.genruntimeconfig.cache
+C:\Users\yard7\source\repos\HashCode\HashCode\obj\Debug\net6.0\ref\HashCode.dll
